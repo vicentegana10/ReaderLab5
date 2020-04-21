@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReaderLab5</string>
+    <string name="image_from_url"></string>
+    <string name="dialog_fire_missiles">hola</string>
+    <string name="dialog_fire_missiles2">hola1</string>
+    <string name="dialog_fire_missiles3">hola2</string>
+</resources>
